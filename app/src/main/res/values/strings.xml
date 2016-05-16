@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Recipe</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_exit">Exit</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_create">Create</string>
+    <string name="action_cancel">Cancel</string>
+
+    <string name="no_results">No Results Found</string>
+    <string name="searching">Searching</string>
+
+    <string name="recipeNameLabel">Name:</string>
+    <string name="recipeCategoryLabel">Category:</string>
+    <string name="recipeTotalTimeLabel">Minutes:</string>
+    <string name="recipeIngredientsLabel">Ingredients:</string>
+    <string name="recipeInstructionsLabel">Instructions:</string>
+
+    <string name="deleteConfirmationMessage">Are you sure you want to delete?</string>
+    <string name="deleteYesButton">Yes</string>
+    <string name="deleteNoButton">No</string>
+</resources>
